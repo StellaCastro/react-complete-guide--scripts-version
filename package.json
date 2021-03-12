@@ -36,7 +36,7 @@
     "promise": "8.0.1",
     "radium": "^0.26.0",
     "react": "^16.13.1",
-    "react-dev-utils": "^4.0.1",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.13.1",
     "style-loader": "0.18.2",
     "styled": "^1.0.0",
